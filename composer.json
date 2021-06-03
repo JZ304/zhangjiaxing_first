@@ -1,0 +1,21 @@
+{
+    "name": "zhangjiaxing/first",
+    "description": "this is zhang's package!",
+    "type": "l",
+    "require": {
+        "php": ">= 5.6"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "zhangjiaxing",
+            "email": "13880614578@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Siam\\": "src/siam"
+        }
+    }
+}
