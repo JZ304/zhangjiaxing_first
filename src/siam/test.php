@@ -12,6 +12,6 @@ class Test
 {
     function test()
     {
-        echo "Form Test -> test()";
+        echo "THIS IS VERSION 2!!!";
     }
 }
